@@ -9,7 +9,7 @@ redirect_from:
 
 I am second-year undergraduate student from Huazhong University of Science and Technology. My research interest includes **Trustworthy Machine Learning**, especially the security and safety problems on Large Foundation Models.
 
-I am fortunate to be advised by Prof. Pan Zhou. Before joining HUST, I got my bachelor's degree in ECUST.
+I am fortunate to be advised by [Prof. Pan Zhou](https://scholar.google.com/citations?hl=zh-CN&user=cTpFPJgAAAAJ). Before joining HUST, I got my bachelor's degree in ECUST.
 
 ## Education
 
