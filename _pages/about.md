@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome to Lin Lu's homepage."
+title: "About Me."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About Me
 
 I am second-year undergraduate student from Huazhong University of Science and Technology. My research interest includes **Trustworthy Machine Learning**, especially the security and safety problems on Large Foundation Models.
 
