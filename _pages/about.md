@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Lin Lu's homepage."
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,11 +22,11 @@ I am fortunate to be advised by Prof. Pan Zhou. Before joining HUST, I got my ba
 
 ### Preprints
 
-- **Lin Lu**$^*$, Hai Yan, Zenghui Yuan, Jiawen Shi, Wenqi Wei, Pin-Yu Chen, and Pan Zhou "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens." (arXiv 2406.03805)
+- **Lin Lu**\*, Hai Yan\*, Zenghui Yuan\*, Jiawen Shi\*, Wenqi Wei, Pin-Yu Chen, and Pan Zhou "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens." (arXiv 2406.03805)
 
 ### Publications
 
-- **Lin Lu**$^*$, Chenxi Dai$^*$, Wangcheng Tao, Binhang Yuan, Yanan Sun, and Pan Zhou "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning. (*ICML 2024*)
+- **Lin Lu**\*, Chenxi Dai\*, Wangcheng Tao, Binhang Yuan, Yanan Sun, and Pan Zhou "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning. (*ICML 2024*)
 
 ## Awards
 
