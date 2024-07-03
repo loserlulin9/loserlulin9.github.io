@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me."
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,10 @@ I am fortunate to be advised by [Prof. Pan Zhou](https://scholar.google.com/cita
 
 ### Preprints
 
+\* indicates equal contribution.
+
 - **Lin Lu**\*, Hai Yan\*, Zenghui Yuan\*, Jiawen Shi\*, Wenqi Wei, Pin-Yu Chen, and Pan Zhou "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens." (arXiv 2406.03805)
+- Yuqi Zhou\*, **Lin Lu**\*, Hanchi Sun, Pan Zhou, and Lichao Sun "*Virtual Context*: Enhancing Jailbreak Attacks with Special Token Injection." (arXiv 2406.19845)
 
 ### Publications
 
@@ -31,6 +34,6 @@ I am fortunate to be advised by [Prof. Pan Zhou](https://scholar.google.com/cita
 - The 18th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Work Competition - **Special Prize (5 teams in China for each track)**
 - Open Source Contribution Certificate, **Certificated by *PaddlePaddle***
 
-### Others
+## Others
 
 I am a football fan of *Machester City* and my favorite soccer ace is *Kevin De Bruyne*. I think the sense of teamwork and creativity that I learned from him is also significant in my research career and life.
