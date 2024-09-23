@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am second-year undergraduate student from Huazhong University of Science and Technology. My research interest includes **Trustworthy Machine Learning**, especially the security and safety problems on Large Foundation Models.
+I am third-year undergraduate student from *Huazhong University of Science and Technology (HUST)*. My research interest includes **Trustworthy Machine Learning**, especially the security and safety problems on Large Foundation Models.
 
-I am fortunate to be advised by [Prof. Pan Zhou](https://scholar.google.com/citations?hl=zh-CN&user=cTpFPJgAAAAJ). Before joining HUST, I got my bachelor's degree in ECUST.
+I am fortunate to be supervised by [Prof. Pan Zhou](https://scholar.google.com/citations?hl=zh-CN&user=cTpFPJgAAAAJ). Before joining HUST, I got my bachelor's degree in *East China University of Science and Technology (ECUST)*.
 
 ## Education
 
@@ -18,16 +18,21 @@ I am fortunate to be advised by [Prof. Pan Zhou](https://scholar.google.com/cita
 
 ## Preprints & Publications
 
-### Preprints
-
 \* indicates equal contribution.
 
+### Preprints
+
 - **Lin Lu**\*, Hai Yan\*, Zenghui Yuan\*, Jiawen Shi\*, Wenqi Wei, Pin-Yu Chen, and Pan Zhou "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens." (arXiv 2406.03805)
-- Yuqi Zhou\*, **Lin Lu**\*, Hanchi Sun, Pan Zhou, and Lichao Sun "*Virtual Context*: Enhancing Jailbreak Attacks with Special Token Injection." (arXiv 2406.19845)
 
 ### Publications
 
-- **Lin Lu**\*, Chenxi Dai\*, Wangcheng Tao, Binhang Yuan, Yanan Sun, and Pan Zhou "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning. (*ICML 2024*)
+- Yuqi Zhou\*, **Lin Lu**\*, Hanchi Sun, Pan Zhou, and Lichao Sun "*Virtual Context*: Enhancing Jailbreak Attacks with Special Token Injection." (***EMNLP 2024 Findings***)
+
+- **Lin Lu**\*, Chenxi Dai\*, Wangcheng Tao, Binhang Yuan, Yanan Sun, and Pan Zhou "Position: Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." (***ICML 2024***)
+
+## Academic Services
+
+- ICLR Reviewer: 2025
 
 ## Awards
 
